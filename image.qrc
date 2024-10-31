@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/align-left.png</file>
+        <file>img/align-right.png</file>
+        <file>img/bold.png</file>
+        <file>img/Center.png</file>
+        <file>img/copy.png</file>
+        <file>img/cut.png</file>
+        <file>img/favicon.ico</file>
+        <file>img/favicon-16x16.png</file>
+        <file>img/favicon-32x32.png</file>
+        <file>img/fileopen.png</file>
+        <file>img/italic.png</file>
+        <file>img/justify.png</file>
+        <file>img/new.png</file>
+        <file>img/paste.png</file>
+        <file>img/print-fill.png</file>
+        <file>img/redo.png</file>
+        <file>img/save.png</file>
+        <file>img/underline.png</file>
+        <file>img/undo.png</file>
+        <file>img/saveasaction.png</file>
+        <file>img/exit.png</file>
+        <file>img/two.png</file>
+        <file>img/close.png</file>
+        <file>img/eglass-color.png</file>
+        <file>img/close-square.png</file>
+        <file>img/pingpu.png</file>
+        <file>img/about.png</file>
+        <file>img/after.png</file>
+        <file>img/behind.png</file>
+        <file>img/character.png</file>
+        <file>img/paragraph.png</file>
+        <file>img/redo2.png</file>
+    </qresource>
+</RCC>
